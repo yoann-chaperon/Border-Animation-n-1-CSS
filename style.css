@@ -29,7 +29,7 @@ div {
 }
 div::before {
     content: '';
-    background-image: conic-gradient(#ff0052 20deg,
+    background-image: conic-gradient(#ff0052 21deg,
     transparent 120deg);
     width: 150%;
     height: 150%;
